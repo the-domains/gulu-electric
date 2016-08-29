@@ -1,4 +1,3 @@
-layout_spectrum: 0.9072489293757826
 typography_spectrum: 0.5833995484281331
 color:
   brandStrength: 0.7583499127067626
@@ -6,9 +5,12 @@ color:
   saturation: 0.34047630336135626
   rhythmicContrast: 0.7035458160098642
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.9072489293757826
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a9bbe4b-ab31-472b-8565-6a5a16c37b60.png
 name: Gulu Electric
